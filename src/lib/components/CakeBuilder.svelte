@@ -278,8 +278,8 @@ flex flex-col items-center gap-2 font-medium tracking-widest">
                         Next
                 </button>
 
-                {:else if phase == 6}  
-
+            {:else if phase == 6}  
+                <!-- TO DO -->
             {/if}
         </div>
     {/key}
